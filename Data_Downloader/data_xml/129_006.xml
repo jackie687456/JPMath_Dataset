@@ -1,0 +1,35 @@
+<annotation>
+    <filename>129_006.png</filename>
+    <size>
+        <width>1654</width>
+        <height>2339</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>inlinemf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1166</xmin>
+            <ymin>2063</ymin>
+            <xmax>1194</xmax>
+            <ymax>2095</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>inlinemf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>486</xmin>
+            <ymin>1985</ymin>
+            <xmax>517</xmax>
+            <ymax>2016</ymax>
+        </bndbox>
+    </object>
+</annotation>

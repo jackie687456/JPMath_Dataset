@@ -1,0 +1,35 @@
+<annotation>
+    <filename>066_000.png</filename>
+    <size>
+        <width>1653</width>
+        <height>2339</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>inlinemf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>912</xmin>
+            <ymin>1716</ymin>
+            <xmax>940</xmax>
+            <ymax>1748</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>displaymf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>908</xmin>
+            <ymin>1784</ymin>
+            <xmax>1055</xmax>
+            <ymax>1822</ymax>
+        </bndbox>
+    </object>
+</annotation>

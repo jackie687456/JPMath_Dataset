@@ -1,0 +1,35 @@
+<annotation>
+    <filename>044_006.png</filename>
+    <size>
+        <width>1654</width>
+        <height>2339</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>inlinemf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>907</xmin>
+            <ymin>1083</ymin>
+            <xmax>970</xmax>
+            <ymax>1105</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>inlinemf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>693</xmin>
+            <ymin>1052</ymin>
+            <xmax>775</xmax>
+            <ymax>1077</ymax>
+        </bndbox>
+    </object>
+</annotation>

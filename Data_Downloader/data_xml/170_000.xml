@@ -1,0 +1,35 @@
+<annotation>
+    <filename>170_000.png</filename>
+    <size>
+        <width>1481</width>
+        <height>2073</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>inlinemf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1193</xmin>
+            <ymin>1279</ymin>
+            <xmax>1296</xmax>
+            <ymax>1314</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>inlinemf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1195</xmin>
+            <ymin>1018</ymin>
+            <xmax>1295</xmax>
+            <ymax>1052</ymax>
+        </bndbox>
+    </object>
+</annotation>

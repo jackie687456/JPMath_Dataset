@@ -1,0 +1,35 @@
+<annotation>
+    <filename>022_004.png</filename>
+    <size>
+        <width>1653</width>
+        <height>2339</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>inlinemf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1165</xmin>
+            <ymin>668</ymin>
+            <xmax>1184</xmax>
+            <ymax>696</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>inlinemf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>629</xmin>
+            <ymin>1807</ymin>
+            <xmax>649</xmax>
+            <ymax>1836</ymax>
+        </bndbox>
+    </object>
+</annotation>

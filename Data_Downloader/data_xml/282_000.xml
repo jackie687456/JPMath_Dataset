@@ -1,0 +1,22 @@
+<annotation>
+    <filename>282_000.png</filename>
+    <size>
+        <width>1653</width>
+        <height>2339</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>inlinemf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1218</xmin>
+            <ymin>959</ymin>
+            <xmax>1255</xmax>
+            <ymax>988</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,35 @@
+<annotation>
+    <filename>080_002.png</filename>
+    <size>
+        <width>1653</width>
+        <height>2339</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>displaymf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>182</xmin>
+            <ymin>277</ymin>
+            <xmax>542</xmax>
+            <ymax>365</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>displaymf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>906</xmin>
+            <ymin>549</ymin>
+            <xmax>1331</xmax>
+            <ymax>634</ymax>
+        </bndbox>
+    </object>
+</annotation>

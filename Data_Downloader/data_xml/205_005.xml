@@ -1,0 +1,35 @@
+<annotation>
+    <filename>205_005.png</filename>
+    <size>
+        <width>1653</width>
+        <height>2339</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>inlinemf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>514</xmin>
+            <ymin>427</ymin>
+            <xmax>602</xmax>
+            <ymax>455</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>inlinemf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>225</xmin>
+            <ymin>348</ymin>
+            <xmax>254</xmax>
+            <ymax>379</ymax>
+        </bndbox>
+    </object>
+</annotation>

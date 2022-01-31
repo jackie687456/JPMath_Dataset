@@ -1,0 +1,35 @@
+<annotation>
+    <filename>007_007.png</filename>
+    <size>
+        <width>1434</width>
+        <height>2025</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>inlinemf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>579</xmin>
+            <ymin>1466</ymin>
+            <xmax>684</xmax>
+            <ymax>1492</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>inlinemf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>312</xmin>
+            <ymin>1437</ymin>
+            <xmax>345</xmax>
+            <ymax>1461</ymax>
+        </bndbox>
+    </object>
+</annotation>

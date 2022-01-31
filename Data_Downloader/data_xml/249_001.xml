@@ -1,0 +1,35 @@
+<annotation>
+    <filename>249_001.png</filename>
+    <size>
+        <width>1653</width>
+        <height>2339</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>inlinemf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>284</xmin>
+            <ymin>1418</ymin>
+            <xmax>316</xmax>
+            <ymax>1452</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>inlinemf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>872</xmin>
+            <ymin>1882</ymin>
+            <xmax>907</xmax>
+            <ymax>1919</ymax>
+        </bndbox>
+    </object>
+</annotation>

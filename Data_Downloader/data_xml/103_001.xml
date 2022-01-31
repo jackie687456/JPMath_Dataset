@@ -1,0 +1,22 @@
+<annotation>
+    <filename>103_001.png</filename>
+    <size>
+        <width>1654</width>
+        <height>2339</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>inlinemf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1315</xmin>
+            <ymin>2059</ymin>
+            <xmax>1341</xmax>
+            <ymax>2093</ymax>
+        </bndbox>
+    </object>
+</annotation>

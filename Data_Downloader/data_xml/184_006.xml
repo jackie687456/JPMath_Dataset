@@ -1,0 +1,35 @@
+<annotation>
+    <filename>184_006.png</filename>
+    <size>
+        <width>1481</width>
+        <height>2073</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>displaymf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>243</xmin>
+            <ymin>411</ymin>
+            <xmax>647</xmax>
+            <ymax>569</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>displaymf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>324</xmin>
+            <ymin>208</ymin>
+            <xmax>644</xmax>
+            <ymax>350</ymax>
+        </bndbox>
+    </object>
+</annotation>

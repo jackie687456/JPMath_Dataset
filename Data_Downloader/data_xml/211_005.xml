@@ -1,0 +1,35 @@
+<annotation>
+    <filename>211_005.png</filename>
+    <size>
+        <width>1653</width>
+        <height>2339</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>displaymf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>187</xmin>
+            <ymin>175</ymin>
+            <xmax>1316</xmax>
+            <ymax>448</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>inlinemf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>197</xmin>
+            <ymin>508</ymin>
+            <xmax>215</xmax>
+            <ymax>537</ymax>
+        </bndbox>
+    </object>
+</annotation>
